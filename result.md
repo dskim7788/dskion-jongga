@@ -1,3 +1,3 @@
 # error
 
-토큰 응답에 token 없음: {'return_msg': '인증에 실패했습니다[8050:지정단말기 인증에 실패했습니다]', 'return_code': 3}
+토큰 응답에 token 없음: {'return_msg': '인증에 실패했습니다[8050:IP가 등록되지 않았습니다. 키움 REST API 홈페이지 > API 사용신청 화면에서 IP를 등록해주세요.]', 'return_code': 3}
