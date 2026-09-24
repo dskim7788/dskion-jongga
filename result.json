@@ -1,7 +1,7 @@
 {
   "status": "error",
   "message": "토큰 응답에 token 없음: {'return_msg': '인증에 실패했습니다[8050:IP가 등록되지 않았습니다. 키움 REST API 홈페이지 > API 사용신청 화면에서 IP를 등록해주세요.]', 'return_code': 3}",
-  "date": "20260923",
-  "time": "19:17:11",
+  "date": "20260924",
+  "time": "19:24:27",
   "candidates": []
 }
